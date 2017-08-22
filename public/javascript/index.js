@@ -13,6 +13,9 @@ $("#btn_single_search").click(function(){
       <h3><b>Summary</b>: ${fields.summary}</h3>
       <h3><b>Description</b>: ${fields.description}</h3>
       `)
+    },
+    error:function(x,status,error){
+      console.log('localhost is not accessible')
     }
   });
 
