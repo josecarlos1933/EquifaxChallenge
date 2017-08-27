@@ -24,6 +24,6 @@ url:"http://localhost:3000/ok" to
 
 - After this change the search worked as expected.
 
-SERVER AND APP ROUTES
-http://104.198.143.16:8081/secure/RapidBoard.jspa?rapidView=1&projectKey=TP
-http://104.198.143.16:3021/
+-SERVER AND APP ROUTES
+- SERVER: http://104.198.143.16:8081/secure/RapidBoard.jspa?rapidView=1&projectKey=TP
+- APP: http://104.198.143.16:3021/
